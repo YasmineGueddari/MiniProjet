@@ -1,5 +1,5 @@
-# MiniProjet
-
+![img](src/images.png)
+<H1>Mini Projet "Analyzing-Netflix-Data"<H1>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YasmineGueddari/MiniProjet/main)
 
 ## Présentation du dataset
