@@ -1,6 +1,6 @@
 <H1>Mini Projet "Analyzing-Netflix-Data"<H1>
     
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YasmineGueddari/MiniProjet/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YasmineGueddari/MiniProjet/main?filepath=Netflix.ipynb)
 
 ## Présentation 
 ceci est un prototype de projet en analyse de donnée
