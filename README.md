@@ -22,6 +22,6 @@ On a utilisé les bibliothèques :
   <img src="https://media.giphy.com/media/UoRR2d1b8xs04A2bV8/giphy.gif"></h1>
 </p>
 
-##Conclusion
+## Conclusion
 <h5>Dans Netflix, les films sont le type le plus important parmi les émissions de télévision, deux fois plus de films que de séries télévisées sont développés et cela peut affecter le classement.Le plus grand nombre de contenus Netflix est réalisé avec une classification « TV-MA ». Il y a eu une augmentation constante de la production de contenu au fil des ans jusqu'en 2019 environ, lorsque le contenu a chuté. Cela pourrait être attribué à la pandémie de COVID-19 qui a particulièrement frappé l'industrie du divertissement pendant cette période. Une autre information importante est que la différence entre le nombre de projets par les réalisateurs de films par rapport aux séries télévisées est très grande, cela peut être dû au fait que la réalisation d'une série télévisée nécessite plus de temps et de travail. Enfin, les États-Unis sont le pays le plus important pour créer du contenu pour Netflix<h5>
 
